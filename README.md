@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedansh tomar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **DSA and AI**
+- 🌱 I’m currently learning **DSA and Spring boot*
 
 - 📫 How to reach me **vedanshtomar48@gmail.com**
 
